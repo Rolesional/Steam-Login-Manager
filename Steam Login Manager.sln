@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steam Login Manager", "Steam Login Manager\Steam Login Manager.csproj", "{2C45A1CD-D023-42DF-ACA6-763D5311DF72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C45A1CD-D023-42DF-ACA6-763D5311DF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C45A1CD-D023-42DF-ACA6-763D5311DF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C45A1CD-D023-42DF-ACA6-763D5311DF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C45A1CD-D023-42DF-ACA6-763D5311DF72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ABD9917-9C41-4DBB-89C1-FEEDB84AD611}
+	EndGlobalSection
+EndGlobal
