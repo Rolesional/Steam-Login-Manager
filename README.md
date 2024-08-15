@@ -9,11 +9,6 @@ Done!
 # Login With Saved Account
 - Select A Account 
 - Click "Login"
-Done!
-
-
-Screenshots:
-
-![alt text](https://cdn.discordapp.com/attachments/943892970007040050/1038515450088275998/1.PNG)
-![alt text](https://cdn.discordapp.com/attachments/943892970007040050/1038515450444783667/2.PNG)
-![alt text](https://cdn.discordapp.com/attachments/943892970007040050/1038515449765298386/3.PNG)
+https://cdn.discordapp.com/attachments/943892970007040050/1038515450088275998/1.PNG
+https://cdn.discordapp.com/attachments/943892970007040050/1038515450444783667/2.PNG
+https://cdn.discordapp.com/attachments/943892970007040050/1038515449765298386/3.PNG
